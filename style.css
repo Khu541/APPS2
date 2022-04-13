@@ -1,0 +1,30 @@
+.line{
+height:7px;
+width:80px;
+background-color: rgb(247, 6, 135);
+margin:8px auto;
+}
+body{
+text-align:center;
+background-color: rgb(136, 230, 241);
+}
+h1 {
+font-size:25px;
+font-family:cursive;
+
+}
+#APPS{
+background-color: rgb(241, 136, 192);
+}
+ #mycarousel img{
+  height:300px ; 
+  width:350px;  
+  margin-top:35px;
+ }
+ }.carousel-inner p {
+ margin-top:15px;   
+ font-size:25px; 
+ }
+ #mycarousel{
+     background-color:rgb(136, 230, 241);
+ }
